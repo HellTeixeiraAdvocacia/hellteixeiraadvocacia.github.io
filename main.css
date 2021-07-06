@@ -1,0 +1,12 @@
+.calho{
+	height: 75PX;
+    border-style: ridge;
+    border-color: whitesmoke;
+    border-width: 100px;
+}
+.links{
+	height: 25px;
+}
+.corpo{
+	background-image: url(https://lojatecidos.com/media/catalog/product/cache/ac95d467f39086acf44821b87fe7ae41/t/e/tela-crepe-rubi-oscuro_10.jpg);
+}
